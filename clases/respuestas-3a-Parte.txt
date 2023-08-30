@@ -1,0 +1,27 @@
+1-¿Cuál es el beneficio de usar un lenguaje con
+tipos (Typescript)?
+Una de las ventajas es la limpieza y la legibiliad del código. Al ser un lenguaje tipado,
+se promueve que el código sea más robusto. Es más limpio y
+más fácil de entender cuando se utiliza, por ejemplo, en la programación orientada a
+objetos porque tiene una sintaxis más sencilla, para este caso, que en javascript.
+
+2-¿A qué se le llama variable interna? ¿Por qué
+internas?
+Las variables internas son los atributos que contienen las clases y que luego están
+contenidas en los objetos o instancias de esa clase. Estas variables internas tienen sus
+modificadores de acceso: private, protected, public. Son internas porque forman
+parte de la clase y pueden recibir valores por default o por la asignación mediante los parámetros
+en los constructores o métodos.
+
+3-Explicar la diferencia entre composición y
+herencia
+La composición implica que una clase compleja puede estar compuesta por una o más clases sencillas.
+Esto significa que una clase usa o tiene otras clases dentro. En cambio, en la herencia una clase o
+subclase hereda los atributos y/o métodos de una clase padre-madre o superclase.
+
+4-Enumerar las características de una interfaz.
+Una interfaz contiene los métodos que debe cumplir una clase y que deben ser implementados por dicha
+clase. Una interfaz no implementa los métodos y estos no van a poseer modificadores de acceso dentro
+de la misma.
+Las interfaces permiten además que se agreguen variables dentro de ellas pero no es recomendable hacerlo
+ya que quedan públicas.
